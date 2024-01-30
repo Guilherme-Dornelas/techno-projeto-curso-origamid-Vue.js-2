@@ -1,0 +1,20 @@
+{
+    "id": "smartphone",
+    "nome": "SmartPhone",
+    "preco": 1500,
+    "descricao": "Incapaz de separar sua vida normal das aventuras de ser um super-herói, além de ter sua reputação arruinada por acharem que foi ele quem matou Mysterio e pondo em risco seus entes mais queridos,",
+    "estoque": 12,    
+    "img": "https://d8vlg9z1oftyc.cloudfront.net/ailos/image/product/9f332f23b834ef41ba5bddeaa1cffe3420220316144447/original/celular-apple-iphone-13-pro-max-128gb_3013.jpg",
+    "avalicoes":[
+        {
+            "nome": "Fabio",
+            "estrelas": 5,
+            "descrcao": "Gostei muito do produto"
+        },
+        {
+            "nome": "Julio",
+            "estrelas": 4,
+            "descrcao": "Gostei muito do produto, porem poderia ser melhor"
+        }
+     ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "smartwatch",
+    "nome": "Smartwatch",
+    "preco": 800,
+    "descricao": "Incapaz de separar sua vida normal das aventuras de ser um super-herói, além de ter sua reputação arruinada por acharem que foi ele quem matou Mysterio e pondo em risco seus entes mais queridos,",
+    "estoque": 12,  
+    "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ultra-band-unselect-gallery-1-202309_GEO_BR_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80&.v=1693544491877",
+    "avalicoes":[
+        {
+            "nome": "Fabio",
+            "estrelas": 5,
+            "descrcao": "Gostei muito do produto"
+        },
+        {
+            "nome": "Julio",
+            "estrelas": 4,
+            "descrcao": "Gostei muito do produto, porem poderia ser melhor"
+        }
+     ]
+
+}
+

@@ -1,0 +1,21 @@
+{
+    "id": "notebook",
+    "nome": "Notebook",
+    "preco": 2999,
+     "descricao": "Incapaz de separar sua vida normal das aventuras de ser um super-herói, além de ter sua reputação arruinada por acharem que foi ele quem matou Mysterio e pondo em risco seus entes mais queridos,",
+    "estoque": 12,    
+     "img": "https://img.freepik.com/fotos-gratis/uma-pintura-de-um-lago-de-montanha-com-uma-montanha-ao-fundo_188544-9126.jpg",
+     "avalicoes":[
+        {
+            "nome": "Fabio",
+            "estrelas": 5,
+            "descrcao": "Gostei muito do produto"
+        },
+        {
+            "nome": "Julio",
+            "estrelas": 4,
+            "descrcao": "Gostei muito do produto, porem poderia ser melhor"
+        }
+     ]
+
+}

@@ -1,0 +1,20 @@
+{
+    "id": "speaker",
+    "nome": "Speaker",
+    "preco": 800,
+    "descricao": "Incapaz de separar sua vida normal das aventuras de ser um super-herói, além de ter sua reputação arruinada por acharem que foi ele quem matou Mysterio e pondo em risco seus entes mais queridos,",
+    "estoque": 12, 
+    "img": "https://images.tcdn.com.br/img/img_prod/611043/speaker_portatil_jbl_flip_5_bluetooth_preto_2683_1_2fcb2a18f934ba19a91d3b5240e7c35d.jpg",
+    "avalicoes":[
+        {
+            "nome": "Fabio",
+            "estrelas": 5,
+            "descrcao": "Gostei muito do produto"
+        },
+        {
+            "nome": "Julio",
+            "estrelas": 4,
+            "descrcao": "Gostei muito do produto, porem poderia ser melhor"
+        }
+     ]
+}
